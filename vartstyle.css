@@ -1,0 +1,285 @@
+@font-face {
+    font-family: 'Gloria Hallelujah';
+    src: local('Gloria Hallelujah'), local('GloriaHallelujah'),
+        url('fonts/GloriaHallelujah.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    src: local('Permanent Marker Regular'), local('PermanentMarker-Regular'),
+        url('fonts/PermanentMarker-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+p {
+	font-family: 'Gloria Hallelujah', sans-serif, Arial;
+	margin: auto;
+	padding:  10px;
+}
+
+h1 {
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	padding:  0px;
+	margin: auto;
+}
+
+h2 {
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	padding:  5px;
+	margin: auto;
+}
+
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  width: 15%;
+  background-color: #ffffff;
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  display:  inline;
+  float: left;
+  z-index: 100;
+  position: fixed;
+  bottom: 0px;
+}
+
+ul p{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+}
+
+li img{
+    width: 95%;
+}
+
+li img:hover{
+    transform:none
+}
+
+li a {
+  display: block;
+  line-height: 110%;
+  color: #000000;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-family: 'Gloria Hallelujah', sans-serif, Arial;
+}
+
+li a:hover{
+	background-color:  #BD7783;
+	color: #ffffff;
+  	text-decoration: none;
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+main {
+	margin-left:  20%;
+}
+
+p a{
+	color: #000000;
+  	padding:  5px;
+}
+
+p a:hover{
+	background-color:  #BD7783;
+	color: #ffffff;
+}
+.eyecomic img{
+	width:  45%;
+	margin-left: 25%;
+}
+
+.eyecomic img:hover{
+	transform:none;
+	margin-left: 25%;
+}
+
+.buttons a{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	text-decoration: none;
+	background-color:  #ffffff;
+	color: #000000;
+	border-radius: 15px;
+	border-style:  solid;
+	border-width:  10px;
+	margin-left:  230px;
+	padding:  15px;
+	font-size: 120%;
+}
+
+.buttons a:hover{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	text-decoration: none;
+	background-color:  #BD7783;
+	color: #ffffff;
+}
+
+footer {
+	text-align:  center;
+	margin-top:  75px;
+	margin-left: 175px;
+}
+
+footer a{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	text-decoration: none;
+	background-color:  #ffffff;
+	color: #000000;
+	border-radius: 15px;
+	border-style:  solid;
+	border-width:  10px;
+	padding:  15px;
+}
+
+footer a:hover{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	text-decoration: none;
+	background-color:  #BD7783;
+	color: #ffffff;
+}
+
+footer p{
+	font-family: 'Permanent Marker', sans-serif, Arial;
+	color: #BD7783;
+	margin-top:  35px;
+}
+
+.prepro img{
+	width:  30%;
+	display:  inline-block;
+}
+
+.storyboard img{
+	width:  30%;
+	display:  inline-block;
+}
+
+iframe{
+	margin-left:  175px;
+}
+
+
+.sketches img{
+	width:  30%;
+}
+
+.aqcover img{
+	width:  60%;
+	margin-left:  175px;
+}
+
+
+.aqpages img{
+	width:  30%;
+}
+
+
+.posters img{
+	width:  38%;
+	margin-left:  70px;
+}
+
+.corncards img{
+	width:  45%;
+}
+
+
+.mittenmain img{
+	width:  75%;
+	margin-left:  70px;
+	padding:  10px;
+}
+
+
+.mittensketch img{
+	width:  20%;
+	margin-left:  30px;
+}
+
+
+.polar img{
+	width:  35%;
+	margin-left:  275px;
+	padding:  10px;
+}
+
+
+.cx3 img{
+	width:  35%;
+	margin-left:  70px;
+	padding:  10px;
+
+}
+
+
+.foldz img{
+	width:  35%;
+	margin-left:  70px;
+	padding:  10px;
+
+}
+
+
+.aniposter img{
+	width:  75%;
+	margin-left:  85px;
+}
+
+
+.groupgod img{
+	width:  25%;
+}
+
+.godworks img{
+	width:  25%;
+}
+
+
+.earthgroup img{
+	width:  65%;
+	margin-left:  165px;
+}
+
+
+.earthimg img{
+	width:  45%;
+}
+
+
+.apoqh2 h2{
+	text-align: center;
+	font-size: 120%;
+}
+
+.galleryshots img{
+	object-fit: cover;
+  width: 230px;
+  height: 230px;
+}
+
+.godgroup img{
+	object-fit: cover;
+  width: 230px;
+  height: 230px;
+  margin-left:  50px;
+}
+
+.anigroup img{
+		object-fit: cover;
+  width: 230px;
+  height: 230px;
+  margin-left:  50px;
+
+}
+
+
