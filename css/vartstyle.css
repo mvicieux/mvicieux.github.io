@@ -20,6 +20,8 @@ p {
 	font-family: 'Gloria Hallelujah', sans-serif, Arial;
 	margin: auto;
 	padding:  10px;
+	font-size: 125%;
+	margin-right: 15%;
 }
 
 h1 {
@@ -52,6 +54,7 @@ h2 {
 
 ul p{
 	font-family: 'Permanent Marker', sans-serif, Arial;
+
 }
 
 li img{
@@ -69,6 +72,7 @@ li a {
   padding: 8px 16px;
   text-decoration: none;
   font-family: 'Gloria Hallelujah', sans-serif, Arial;
+  font-size: 125%;
 }
 
 li a:hover{
@@ -112,7 +116,7 @@ p a:hover{
 	border-radius: 15px;
 	border-style:  solid;
 	border-width:  10px;
-	margin-left:  230px;
+	margin-left:  20%;
 	padding:  15px;
 	font-size: 120%;
 }
@@ -126,8 +130,8 @@ p a:hover{
 
 footer {
 	text-align:  center;
-	margin-top:  75px;
-	margin-left: 175px;
+	margin-top:  5%;
+	margin-left: 20%;
 }
 
 footer a{
@@ -151,7 +155,8 @@ footer a:hover{
 footer p{
 	font-family: 'Permanent Marker', sans-serif, Arial;
 	color: #BD7783;
-	margin-top:  35px;
+	margin-top:  5%;
+	margin-left:  15%;
 }
 
 .prepro img{
@@ -282,4 +287,7 @@ iframe{
 
 }
 
+.hidlinks a{
+	visibility: none;
+}
 
